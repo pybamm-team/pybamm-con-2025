@@ -1,0 +1,34 @@
+*.pkl
+*.DS_Store
+.vscode
+.idea
+generated
+private
+workspace
+
+# Figures
+*.png
+*.pdf
+*.jpg
+*.eps
+figures/
+
+# Python cache
+*__pycache__
+*.cache
+.ipynb_checkpoints/
+*.pyc
+*.py~
+.~lock*
+*.swp
+
+# Python environment
+env
+.env
+.venv
+venv
+*.egg-info
+dist
+build
+deploy
+
